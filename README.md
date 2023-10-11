@@ -1,5 +1,6 @@
 <h1 align="center">Hi Fellow Devs 👋, I'm Omar</h1>
 <h3 align="center">A Waterloo Electrical Engineering Student who likes Programming</h3>
+<img align="right" alt="Animated Image" width="400" src="https://media3.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif?cid=6c09b952pb67w5pxagtz34dwua40h2cb7rsyg6oj9rtgqqaw&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarelsiwy&label=Profile%20views&color=0e75b6&style=flat" alt="omarelsiwy" /> </p>
 
@@ -7,11 +8,11 @@
 
 - 🌱 I’m currently learning: **Rust (WGPU), VHDL, and Altium Designer**
 
-- 👨‍💻 All of my projects are available at [Website in Progress](Website in Progress)
+- 👨‍💻 All of my projects are available at: [Website in Progress](Website in Progress)
 
-- 💬 Ask me about **C, C++, Qt, Typescript, React.JS, ThreeJS**
+- 💬 Ask me about: **C, C++, Qt, Typescript, React.JS, ThreeJS**
 
-- 📫 How to reach me **ok.elsawy@gmail.com**
+- 📫 How to reach me: **ok.elsawy@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
