@@ -2,7 +2,7 @@
 <h3 align="center">A Waterloo Electrical Engineering Student who likes Programming</h3>
 <img align="right" alt="Animated Image" width="400" src="https://media3.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif?cid=6c09b952pb67w5pxagtz34dwua40h2cb7rsyg6oj9rtgqqaw&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s">
 
-- 🔭 I’m currently working on: [A Line Tracking Robot and My Portfolio Website](https://github.com/ECE198-Dream-Duo)
+- 🔭 I’m currently working on: [Rusty Blackbox and mEEting](https://github.com/ECE198-Dream-Duo)
 
 - 🌱 I’m currently learning: **Rust (WGPU), VHDL, and Altium Designer**
 
